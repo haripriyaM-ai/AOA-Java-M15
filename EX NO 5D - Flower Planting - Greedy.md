@@ -24,9 +24,11 @@ A valid assignment is always guaranteed because no garden has more than 3 neighb
 ---
 
 ## Program:
-
+```
 Developed by: HARI PRIYA M 
-RegisterNumber: 212224240047 
+RegisterNumber: 212224240047
+```
+```java
 import java.util.*;
 
 public class GardenFlowerPlanner {
